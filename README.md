@@ -11,4 +11,4 @@ Very simple mini-projects written entirely in C++
 <a href=''>This</a> is a very simple program, which takes values from the user (width and height) and creates a square. The user also specifies what symbol they want to use also.
 
 ### Triangle Maker/Drawer
-<a href=''>This</a> is a simple triangle maker/drawer, which takes a value from the user (this will be both width and height) and creates a right-angled triangle. The user also specifies what symbol they want to use also.
+<a href='https://github.com/sudo-harun/cpp-mini-projects/blob/main/triangle.cpp'>This</a> is a simple triangle maker/drawer, which takes a value from the user (this will be both width and height) and creates a right-angled triangle. The user also specifies what symbol they want to use also.
